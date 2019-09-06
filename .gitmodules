@@ -4,3 +4,6 @@
 [submodule "multi_brannch"]
 	path = multi_brannch
 	url = git@github.com:viernes/multi_brannch.git
+[submodule "cancel_all_in_one"]
+	path = cancel_all_in_one
+	url = git@github.com:viernes/cancel_all_in_one.git
