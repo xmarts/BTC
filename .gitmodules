@@ -7,3 +7,6 @@
 [submodule "cancel_all_in_one"]
 	path = cancel_all_in_one
 	url = git@github.com:viernes/cancel_all_in_one.git
+[submodule "bi_inventory_valuation_reports"]
+	path = bi_inventory_valuation_reports
+	url = git@github.com:xmarts/bi_inventory_valuation_reports.git
